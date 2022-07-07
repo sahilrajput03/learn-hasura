@@ -37,3 +37,6 @@ tldr:
 ![image](https://user-images.githubusercontent.com/31458531/177778852-dd8cf5a6-2fa6-400b-bc9c-6c6de2910c83.png)
 
 
+- Now you can make use of graphql queries - Example of making use of an aggregate query where we can limit the number of items, provide offset, provide the required fields, order by using any combination of sequelize operators like `eq`, `or` like operators. Yikes!!
+
+![image](https://user-images.githubusercontent.com/31458531/177779920-2db69b4a-6270-41a3-83f2-55a6bbcf9450.png)
