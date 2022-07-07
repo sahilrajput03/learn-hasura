@@ -71,3 +71,6 @@ tldr:
 
 ![image](https://user-images.githubusercontent.com/31458531/177827118-016c8505-87c6-47fb-acc0-aa05b519ca45.png)
 
+- Adding default value for `created_at` and `updated_at` so that they take values on their own when the query is sent without those values: 
+
+![image](https://user-images.githubusercontent.com/31458531/177828240-62c6445c-3f8d-4b4e-a4f3-ab8c68e88e54.png)
