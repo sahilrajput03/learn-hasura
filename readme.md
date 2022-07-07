@@ -16,6 +16,10 @@ tldr:
 - Database URL: `postgresql://postgres:secret@192.168.18.3:5432/myDb1_blogs_test` or `postgresql://postgres:secret@192.168.18.3:5432/myDb1_test`
 ```
 
+##### Setting up local postgres for hasura
+
+[Click here](https://github.com/sahilrajput03/learning_sql/blob/main/Notes_setup-postgres.md#hasura-connecting-db)
+
 ## Resources
 
 - Getting Started Docs: [Click here](https://hasura.io/docs/latest/graphql/core/getting-started/first-graphql-query/#create-a-table)
