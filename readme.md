@@ -28,3 +28,12 @@ tldr:
 
 ![image](https://user-images.githubusercontent.com/31458531/177777669-66ea22e2-6535-41bc-997e-0ced5d06024e.png)
 
+- Now view the database: 
+
+![image](https://user-images.githubusercontent.com/31458531/177777934-23a6b256-cd69-49fc-af8e-c4551f1ad854.png)
+
+- Now track some tables: 
+
+![image](https://user-images.githubusercontent.com/31458531/177778852-dd8cf5a6-2fa6-400b-bc9c-6c6de2910c83.png)
+
+
