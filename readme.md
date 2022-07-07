@@ -5,9 +5,11 @@ Learn hasura Page on Github Profile: [Click here](https://github.com/sahilrajput
 Hasura Graphql Engine: [Click here](https://github.com/hasura/graphql-engine)
 
 - in a new directory run `wget https://raw.githubusercontent.com/hasura/graphql-engine/stable/install-manifests/docker-compose/docker-compose.yaml`
-- `docker-compose up -d`
-- `docker ps`
+- `docker-compose up -d` or `dc up -d`
+- `docker ps` or `dk ps`
 - Connection link for postgres db: [click here](https://github.com/sahilrajput03/learning_sql/blob/main/Notes_setup-postgres.md#hasura-connecting-db)
+
+FYI: To turn down use, `dc down` command.
 
 tldr: 
 
