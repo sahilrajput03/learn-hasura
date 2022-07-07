@@ -52,3 +52,7 @@ tldr:
 - Insert row in a table: 
 
 ![image](https://user-images.githubusercontent.com/31458531/177783002-901f5e9c-2b7d-41aa-adad-2ee1593288b6.png)
+
+- Copy request code via ***Code Exporter***: 
+
+![image](https://user-images.githubusercontent.com/31458531/177784758-83de7ff0-a777-45de-af88-154f8136db38.png)
