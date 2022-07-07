@@ -21,3 +21,10 @@ tldr:
 - Getting Started Docs: [Click here](https://hasura.io/docs/latest/graphql/core/getting-started/first-graphql-query/#create-a-table)
 - Hasura - Getting Started (Your First Query) : [Click here](https://youtu.be/ZGKQ0U18USU)
 - Official Course by Hasura: [Click here](https://hasura.io/learn/graphql/hasura/introduction/?pg=oss-console&plcmt=onboarding-checklist)
+
+## Pictorial Memory
+
+- Connecting to local db say `myDb1_blogs_test`:
+
+![image](https://user-images.githubusercontent.com/31458531/177777669-66ea22e2-6535-41bc-997e-0ced5d06024e.png)
+
