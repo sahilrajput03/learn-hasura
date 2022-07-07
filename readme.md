@@ -44,3 +44,11 @@ tldr:
 - Now you can make use of graphql queries - Example of making use of an aggregate query where we can limit the number of items, provide offset, provide the required fields, order by using any combination of sequelize operators like `eq`, `or` like operators. Yikes!!
 
 ![image](https://user-images.githubusercontent.com/31458531/177779920-2db69b4a-6270-41a3-83f2-55a6bbcf9450.png)
+
+- View table's data: 
+
+![image](https://user-images.githubusercontent.com/31458531/177782803-d90183b7-0da6-42f0-9b18-0c86c995a98c.png)
+
+- Insert row in a table: 
+
+![image](https://user-images.githubusercontent.com/31458531/177783002-901f5e9c-2b7d-41aa-adad-2ee1593288b6.png)
