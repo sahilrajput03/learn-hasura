@@ -1,6 +1,6 @@
 # README
 
-Learn hasura Page: [Click here](https://github.com/sahilrajput03/sahilrajput03/blob/master/learn-hasura.md)
+Learn hasura Page on Github Profile: [Click here](https://github.com/sahilrajput03/sahilrajput03/blob/master/learn-hasura.md)
 
 Hasura Graphql Engine: [Click here](https://github.com/hasura/graphql-engine)
 
