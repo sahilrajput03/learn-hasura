@@ -76,3 +76,8 @@ tldr:
 ![image](https://user-images.githubusercontent.com/31458531/177828240-62c6445c-3f8d-4b4e-a4f3-ab8c68e88e54.png)
 
 ![image](https://user-images.githubusercontent.com/31458531/177828526-3ade2c9a-09e3-4268-b132-94c3f6a481ea.png)
+
+- We can make combined queries, also i am using aggregate query to calculate number of blogs as well:
+
+![image](https://user-images.githubusercontent.com/31458531/177960510-f56c2512-0c8e-417e-bec4-d945f8798a55.png)
+
