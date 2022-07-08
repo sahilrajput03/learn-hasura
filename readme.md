@@ -81,3 +81,10 @@ tldr:
 
 ![image](https://user-images.githubusercontent.com/31458531/177960510-f56c2512-0c8e-417e-bec4-d945f8798a55.png)
 
+- Protect you hasural panel with a password:
+
+![image](https://user-images.githubusercontent.com/31458531/178027106-1c938da5-6067-4440-be6e-441823d80401.png
+
+and then webpage would look like this -
+
+![image](https://user-images.githubusercontent.com/31458531/178027510-0ae23ae6-dd90-436d-b6e9-f3704d574d2c.png)
